@@ -1,0 +1,8 @@
+model.streaming
+model.streaming.catalogue
+model.streaming.content
+model.streaming.history
+model.streaming.player
+model.streaming.playlist
+model.streaming.review
+model.streaming.user
