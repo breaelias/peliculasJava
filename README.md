@@ -27,7 +27,7 @@ La base de datos SQLite se crea automáticamente la primera vez que se ejecuta l
 
 Ejecutarlo desde el código fuente
 
-El código está en la carpeta src y se puede abrir con Eclipse (el repositorio incluye los archivos .project y .classpath). El buscador necesita una clave gratuita de OMDb, que se obtiene en https://www.omdbapi.com/apikey.aspx. Pegala en src/model/streaming/service/OMDbService.java, reemplazando TU_API_KEY.
+El código está en la carpeta src (e|l repositorio incluye los archivos .project y .classpath). El buscador necesita una clave gratuita de OMDb, que se obtiene en https://www.omdbapi.com/apikey.aspx. Pegala en src/model/streaming/service/OMDbService.java, reemplazando TU_API_KEY.
 
 Estructura
 src/: código fuente.
